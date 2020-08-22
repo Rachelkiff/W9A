@@ -1,5 +1,5 @@
 var userAge = 18;
-var isSubscribed = false;
+var isSubscribed = true;
 
 console.log(isSubscribed);
 console.log(userAge);
